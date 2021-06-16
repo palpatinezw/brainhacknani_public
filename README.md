@@ -5,10 +5,10 @@
 - Team ID: Cat01Team11
 
 # frontend
-Contains react-native code, run using react-native-cli. 
-**`npm install`**
-*installs necessary dependencies*
-**`npx react-native run-android`**
+Contains react-native code, run using react-native-cli. <br>
+**`npm install`** <br>
+*installs necessary dependencies* <br>
+**`npx react-native run-android`** <br>
 *After loading an android virtual device or connecting via USB an android device, run this to run the app*
 <br><br>
 # backend
