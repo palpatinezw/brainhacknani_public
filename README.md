@@ -1,2 +1,6 @@
 # brainhacknani_public
-Brainhack 2021 Cat01Team11 nani??? submission
+
+Names: Ching Wei Quan Daniel,Kannan Janani,Michael Chen Kaijie,Huang Ziwen,Tai Le Kang Gerrard
+Team Name: nani???
+Team ID: Cat01Team11
+
