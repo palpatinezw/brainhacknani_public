@@ -18,4 +18,4 @@ Contains the server code.
 # APKs
 Contains APKs which can be downloaded. 
 <br>
-**`FINAL_novidcall`** does not contain video calling functionality, but is more stable compared to **`FINAL_bugged`**
+**`FINAL_novidcall.apk`** does not contain video calling functionality, but is more stable compared to **`FINAL.apk`**
