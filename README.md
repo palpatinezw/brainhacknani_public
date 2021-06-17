@@ -19,3 +19,5 @@ Contains the server code.
 Contains APKs which can be downloaded. 
 <br>
 **`FINAL_novidcall.apk`** does not contain video calling functionality, but is more stable compared to **`FINAL.apk`**
+<br>
+If **`FINAL.apk`** gets stuck on loading, please use **`FINAL_novidcall.apk`** instead
